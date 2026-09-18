@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/ice-ai-lab/pi-boat">pi-boat</a> ·
-  <a href="https://github.com/ice-ai-lab/dsh-plugin-pi-ui">dsh-plugin-pi-ui</a> ·
-  <a href="https://github.com/ice-ai-lab/dsh-plugin-codex-ui">dsh-plugin-codex-ui</a>
 </p>
 
 ---
@@ -34,8 +32,6 @@ A lab for open-source tooling around AI coding agents — local-first software t
 | Project | What it is |
 |---|---|
 | **[pi-boat](https://github.com/ice-ai-lab/pi-boat)** | 🛥️ The boat that carries `pi` — a local AI coding assistant built on the pi-coding-agent SDK. **One core, many frontends**: browser today, desktop tomorrow. Your sessions, your models, your machine. |
-| **[dsh-plugin-pi-ui](https://github.com/ice-ai-lab/dsh-plugin-pi-ui)** | Sidebar chrome for the DeepSeek Harness Web GUI — temporary sessions, working-directory picker, a draft composer that commits nothing until you send. |
-| **[dsh-plugin-codex-ui](https://github.com/ice-ai-lab/dsh-plugin-codex-ui)** | Codex-style sidebar skin for the DeepSeek Harness Web GUI — Projects + Recents browsing that starts sessions without ceremony. |
 
 ## Principles
 
